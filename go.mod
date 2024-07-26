@@ -1,4 +1,4 @@
-module github.com/gotd/td
+module github.com/masa-finance/td-masa-fork
 
 go 1.21
 
